@@ -1,5 +1,5 @@
 {
-  "client_id": "https://cdn.jsdelivr.net/gh/Faraz9877/questrader-oauth@main/questrader-oauth-client.json",
+  "client_id": "https://faraz9877.github.io/questrader-oauth/questrader-oauth-client.json",
   "client_name": "QuesTraderAI",
   "client_uri": "https://github.com/Faraz9877/QuestraderAI",
   "redirect_uris": [
