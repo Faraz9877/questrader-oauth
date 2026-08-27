@@ -1,0 +1,17 @@
+{
+  "client_id": "https://cdn.jsdelivr.net/gh/Faraz9877/questrader-oauth@main/questrader-oauth-client.json",
+  "client_name": "QuesTraderAI",
+  "client_uri": "https://github.com/Faraz9877/QuestraderAI",
+  "redirect_uris": [
+    "http://localhost/callback",
+    "http://127.0.0.1/callback"
+  ],
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none"
+}
